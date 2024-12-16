@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1074375494631",
+    "firebase_url": "https://app-pokemon-d3ceb-default-rtdb.firebaseio.com",
+    "project_id": "app-pokemon-d3ceb",
+    "storage_bucket": "app-pokemon-d3ceb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074375494631:android:1614e5985f7b270db34b42",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074375494631-ufoec457senp0cf7bc9r0fuktmf5501q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTp5mbrMR2xqTF1ujUyqCDxmI15fhi0E4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074375494631-ufoec457senp0cf7bc9r0fuktmf5501q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
